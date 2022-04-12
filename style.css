@@ -49,3 +49,17 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+
+.backbtn {
+    position: absolute;
+    font-size: 4rem;
+    float: left;
+    cursor: pointer;
+    top: 5rem;
+    margin-left: 15rem;
+    color:#ffc600;
+}
+.backbtn a{
+    text-decoration: none;
+    color: inherit;  
+}
